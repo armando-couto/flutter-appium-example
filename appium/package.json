@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "appium-flutter-finder": "0.0.13",
-    "webdriverio": "^5.15.0"
+    "flutter-appium-node": "1.0.3",
+    "appium-flutter-driver": "1.9.1",
+    "appium-flutter-finder": "0.1.0",
+    "appium-xcuitest-driver": "4.12.2",
+    "wd": "^1.14.0",
+    "webdriverio": "7.26.0"
   },
   "scripts": {
     "start": "node test.js",
