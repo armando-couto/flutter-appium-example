@@ -18,9 +18,9 @@ const opts = {
   port: 4723,
   capabilities: {
       "platformName": 'iOS',
-      "appium:platformVersion": '16.1',
-      "appium:deviceName": "iPhone X",
-      "appium:app": '/Users/armandocouto/Downloads/flutter-appium-example/build/ios/Debug-iphonesimulator/Runner.app',
+      "appium:platformVersion": '16.2',
+      "appium:deviceName": "iPhone 14",
+      "appium:app": '/Users/armandocouto/workspace/flutter-appium-example/build/ios/Debug-iphoneos/Runner.app',
       "appium:automationName": "XCUITest",
       "appium:noReset": true,
       "$cloud:appiumOptions": {
